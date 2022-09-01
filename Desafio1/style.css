@@ -99,10 +99,6 @@ body{
  	color: #FFFFFF;
 }
 
- /*.botao-continue a{
- 	
- }*/
-
 .skip{
 	width: 38px;
 	height: 23px;
@@ -120,7 +116,6 @@ body{
 }
 
 
-
 @media screen and (max-width: 480px){
 .imagem{
 	height: 300px;
@@ -130,7 +125,10 @@ body{
 }
 
 .titulo-principal{
-	
+	width: 282px;
+	height: 31px;
+	left: 50px;
+	top: 341px;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 24px;
