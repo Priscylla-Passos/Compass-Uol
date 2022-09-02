@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/82420437/188237764-a6d27f17-8ed1-43b6-9b12-46be4e00a65d.png)
+#Compass Uol
 
 
 Este repositório é destinado a inclusão de todos projetos elaborados na Compass Uol, durante o estágio.
