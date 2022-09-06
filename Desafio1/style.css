@@ -10,8 +10,11 @@ body{
 }
 
 .imagem img{
-	width: 300px;	
+	width: 300px;
+	height: 300px;	
 	margin-bottom: 7px;
+	margin-top: 34px;
+	
 }
 
 .principal{
@@ -30,9 +33,11 @@ body{
 	line-height: 128.91%;
 	text-align: center;
 	margin-bottom: 26px;
+	
 }
 
 .principal p{
+	width: 299px;
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 128.91%;
@@ -123,10 +128,89 @@ body{
 }
 
 
-@media screen and (max-width: 480px){
-	.principal p{
-		width: 299px;
+/*Tablet*/
+@media screen and (min-width: 768px) and (max-width: 1024px){ 
+	.imagem img{
+	width: 350px;	
+	height: 350px;
 	
+	}
+
+	.titulo-principal{
+		width: 450px;
+		font-size: 35px;
+
+	}
+	.principal p{
+		width: 700px;
+		font-size: 24px;
+
+
+	}
+
+	.point-1, .point-2, .poin-3{
+		width: 14px;
+		height: 14px;
+
+	}
+
+	.botao-continue{
+		width: 408px;
+ 		height: 64px;
+ 		font-size: 20px;
+
+	}
+
+	.skip{
+		width: 48px;
+		height: 33px;
+		font-size: 20px;
+
 	}
 }
 
+/*desktop*/
+@media screen and (min-width: 1025px) and (max-width: 1600px){ 
+	
+	.imagem img{
+	width: 350px;	
+	height: 350px;
+	
+	}
+
+	.titulo-principal{
+		width: 450px;
+		font-size: 35px;
+
+	}
+	.principal p{
+		width: 700px;
+		font-size: 24px;
+		margin-bottom: 35px;
+
+	}
+	.point{
+		margin-bottom: 56px;
+	}
+
+	.point-1, .point-2, .poin-3{
+		width: 14px;
+		height: 14px;
+
+	}
+
+	.botao-continue{
+		width: 408px;
+ 		height: 64px;
+ 		font-size: 20px;
+ 		margin-bottom: 29px;
+
+	}
+
+	.skip{
+		width: 48px;
+		height: 33px;
+		font-size: 20px;
+		
+	}
+}
