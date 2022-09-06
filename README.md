@@ -11,7 +11,7 @@ Este repositório é destinado a inclusão de todos projetos elaborados na Compa
       
 <h2>Descrição dos Projetos</h2>
   
-  1. Desafio 1 - Este projeto visou por em prático o aprendizado HTML5/CSS3 - Aperfeitçoamento com SASS. Encerrando a Sprint 1.
+  1. Desafio 1 - Este projeto visou por em prático o aprendizado HTML5/CSS3 -  Encerrando a Sprint 1.
    
   
 
