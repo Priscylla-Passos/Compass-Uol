@@ -12,10 +12,16 @@ Este repositório é destinado a inclusão de todos projetos elaborados na Compa
       
 <h2>Descrição dos Projetos</h2>
   
-  1. Barbearia Alura - Este projeto foi a primeira criação do curso de HTML e CSS
-     Criação do site Barbearia Alura de forma responsiva
-  2. Desafio 1 - Este projeto visou pôr em prática o aprendizado HTML5/CSS3 -  Encerrando a Sprint 1.
-     Criação de 3 telas com imagem, indicador de páginas, botão continue e skip (para pular para ultima página)
+  1. Barbearia Alura 
+ 
+      Este projeto foi a primeira criação do curso de HTML e CSS
+     
+      Criação do site Barbearia Alura de forma responsiva
+  2. Desafio 1 
+   
+       Este projeto visou pôr em prática o aprendizado HTML5/CSS3 -  Encerrando a Sprint 1.
+
+       Criação de 3 telas com imagem, indicador de páginas, botão continue e skip (para pular para ultima página)
    
   
 
