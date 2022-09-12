@@ -1,30 +1,25 @@
 <h1>Compass Uol</h1>
 
 
+Este repositório contem o desafio 1 da 1ª Sprint Estágio Compass Uol
 
-<h2>Tópicos</h2>
-  
-  <ol>
-      <li><strong>Barbearia Alura</strong></li>
-      <li><strong>Desafio 1</strong></li>
- </ol>     
+<<<<<<< HEAD
       
 <h2>Descrição dos Projetos</h2>
   
-  1. Barbearia Alura 
  
-      Este projeto foi a primeira criação do curso de HTML e CSS
-     
-      Criação do site Barbearia Alura de forma responsiva
-  2. Desafio 1 
-   
-       Este projeto visou pôr em prática o aprendizado HTML5/CSS3 -  Encerrando a Sprint 1.
+DATA DE ENTREGA: 08/09/2022
+🎯 Visão do Projeto
 
-       Criação de 3 telas com imagem, indicador de páginas, botão continue e skip (para pular para ultima página)
-   
-  
->>>>>>> 482fd30925eff2f68815ad34e6a0cf6ebc4b171a
+Este projeto visou por em prática o aprendizado HTML5/CSS3 -  Encerrando a Sprint 1.
 
+
+✅ Escopo de projeto
+Deve ser criado um aplicativo em HTML e CSS com as seguintes especificações:
+
+3 Telas - Com botão Continue e o Skip;
+O Indicador de Páginas;
+O skip deve pular para última tela;
 
 
 🚨 Informações Importantes
