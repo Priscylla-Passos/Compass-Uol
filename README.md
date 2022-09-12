@@ -3,18 +3,20 @@
 
 Este repositório contem o desafio 1 da 1ª Sprint Estágio Compass Uol
 
-<<<<<<< HEAD
       
 <h2>Descrição dos Projetos</h2>
   
  
 DATA DE ENTREGA: 08/09/2022
+
 🎯 Visão do Projeto
 
 Este projeto visou por em prática o aprendizado HTML5/CSS3 -  Encerrando a Sprint 1.
 
 
 ✅ Escopo de projeto
+
+
 Deve ser criado um aplicativo em HTML e CSS com as seguintes especificações:
 
 3 Telas - Com botão Continue e o Skip;
