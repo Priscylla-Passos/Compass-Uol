@@ -20,9 +20,12 @@ Este projeto visou por em prática o aprendizado HTML5/CSS3 -  Encerrando a Spri
 Deve ser criado um aplicativo em HTML e CSS com as seguintes especificações:
 
 3 Telas - Com botão Continue e o Skip;
+
 O Indicador de Páginas;
+
 O skip deve pular para última tela;
 
 
 🚨 Informações Importantes
+
 Layout disponíveis no Figma: https://www.figma.com/file/taVLb4j4fFxiV7ZbRwJlpQ/Onboarding-(Community)?node-id=1%3A975
