@@ -169,7 +169,7 @@ body{
 	}
 }
 
-/*desktop*/
+/*desktop - Fiz de acordo com a resolução da minha tela*/
 @media screen and (min-width: 1025px) and (max-width: 1600px){ 
 	
 	.imagem img{
