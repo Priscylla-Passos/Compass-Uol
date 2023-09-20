@@ -27,6 +27,9 @@ O Indicador de Páginas;
 O skip deve pular para última tela;
 
 
+![desafio Compass Uol](https://github.com/Priscylla-Passos/Compass-Uol/assets/82420437/b232eec9-56e9-4e84-babd-2979faf6c1cf)
+
+
 🚨 Informações Importantes
 
 Layout disponíveis no Figma: https://www.figma.com/file/taVLb4j4fFxiV7ZbRwJlpQ/Onboarding-(Community)?node-id=1%3A975
